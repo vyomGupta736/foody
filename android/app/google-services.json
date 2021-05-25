@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_number": "436687437067",
+    "firebase_url": "https://firstp-c1f94.firebaseio.com",
+    "project_id": "firstp-c1f94",
+    "storage_bucket": "firstp-c1f94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436687437067:android:fbab7964ba49289ed9b60e",
+        "android_client_info": {
+          "package_name": "com.may"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436687437067-m1l61p5hio0drrt44028haa71ou36qnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.may",
+            "certificate_hash": "d6e3b9cac985884145927f8c57eb2e5f660dd07f"
+          }
+        },
+        {
+          "client_id": "436687437067-kk7cco9p0ue9eu2hevrtkvm85ogrfohl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.may",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "436687437067-4dobib276i11u00mmmghrk8pocbjd5cp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.may",
+            "certificate_hash": "3481186129fd3b47bf8eca19b1386a3c39e310b0"
+          }
+        },
+        {
+          "client_id": "436687437067-bpiphuj464m4b5hc1s4db60mk2svmofu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR4ldurThxRgVk8MuInwRuz4uHKqde_y8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436687437067-bpiphuj464m4b5hc1s4db60mk2svmofu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
